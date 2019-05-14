@@ -1,2 +1,2 @@
 # NotePad
-Basic Notepad app withPy
+Basic Notepad app with Python.
